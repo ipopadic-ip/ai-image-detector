@@ -1,6 +1,6 @@
 # **AI Image Detector Dashboard**
 
-A modern React + MUI UI for image verification using AI-powered status evaluation.
+A modern React UI for image verification using AI-powered status evaluation.
 Built with **Material UI (MUI)**, responsive grid layout, dynamic status buttons, and clean card-based design.
 
 ---
