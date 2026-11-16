@@ -44,4 +44,4 @@ npm start
 
 ## 📜 License
 
-MIT — Feel free to use, modify, and contribute.
+MIT — Feel free to use, modify, and contribute. Cool!
